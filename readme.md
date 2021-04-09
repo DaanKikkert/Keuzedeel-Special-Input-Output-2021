@@ -3,7 +3,7 @@
 Team #
 1. Daan Kikkert
 
-[Projectmanagment]() <Trello scrumboard bijvoorbeeld>
+[Projectmanagment](https://trello.com/b/RnIf0nEb/special-input-output) <Trello scrumboard bijvoorbeeld>
 
 ## Ontwerp
 Beschrijf hier kort jullie project
