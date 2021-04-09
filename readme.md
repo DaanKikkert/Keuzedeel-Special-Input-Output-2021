@@ -1,4 +1,3 @@
-![S IU OnePage]
 # Special Input/Output
 Team #
 1. Daan Kikkert
