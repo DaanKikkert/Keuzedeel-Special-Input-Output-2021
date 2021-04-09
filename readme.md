@@ -9,7 +9,6 @@ Team #
 Beschrijf hier kort jullie project
 voorbeeld
 
-(https://user-images.githubusercontent.com/54845837/114162604-8c362680-9929-11eb-9a11-a0dba2685e14.jpg)
 * Video
   * https://youtu.be/cRYiqTAtgLE
 
