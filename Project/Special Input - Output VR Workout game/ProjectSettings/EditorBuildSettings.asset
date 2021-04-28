@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a2ffde94f45a67443b30d051939d33b8
+  - enabled: 1
+    path: Assets/Scenes/EasyDifficulty.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MediumDifficulty.unity
+    guid: 8859849e08bde66498cf1a4743503201
+  - enabled: 1
+    path: Assets/Scenes/HardDifficulty.unity
+    guid: 624bd21d4a8394847853c7339906dd6b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: be45d69094b0a8c4795fceceacba385a,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 1dd7fe8157baef04287b827c4ade615d,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: c7151d0857cc06b468278fdc28004818,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 103f847b0fee03a47abfad7cbe68827b,
+      type: 2}
