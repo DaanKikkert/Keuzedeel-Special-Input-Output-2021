@@ -8,8 +8,10 @@ Team #
 Beschrijf hier kort jullie project
 voorbeeld
 
-* Video
-  * https://youtu.be/cRYiqTAtgLE
+* Usertest
+  * https://www.youtube.com/watch?v=S2rUNNeO8LA
+
+
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
